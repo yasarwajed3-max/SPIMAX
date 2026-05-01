@@ -1,5 +1,11 @@
 [
   {
+    "username": "alone",
+    "key": "23",
+    "device_id": "4c67c1398d59c0ad",
+    "expiry": "2026-11-10"
+  },
+  {
     "username": "xy",
     "key": "xy",
     "device_id": "1a14f22a8094622a",
