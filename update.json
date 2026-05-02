@@ -1,1 +1,8 @@
-
+{
+  "force_update": false,
+  "version": "1.0",
+  "title": "New Update Available",
+  "description": "Bug fixes and improvements.",
+  "telegram_link": "https://t.me/XGOD_H4X",
+  "button_text": "Get Update"
+}
