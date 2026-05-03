@@ -1,8 +1,8 @@
 {
-  "force_update": false,
-  "version": "1.0",
-  "title": "",
-  "description": "",
-  "telegram_link": "",
+  "force_update": true,
+  "version": "2.0",
+  "title": "New Update Available",
+  "description": "new update babys",
+  "telegram_link": "https://t.me/XGOD_H4X",
   "button_text": "Get Update"
 }
