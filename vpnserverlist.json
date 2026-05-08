@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "flag": "🇩🇪",
+    "ping": "45 ms",
+    "protocol": "OpenVPN",
+    "host": "de1.yourserver.com",
+    "port": "1194",
+    "username": "vpnuser",
+    "password": "vpnpass",
+    "ovpn_config": "https://yourserver.com/configs/de1.ovpn",
+    "type": "free"
+  },
+  {
+    "id": "2",
+    "country": "United States",
+    "city": "New York",
+    "flag": "🇺🇸",
+    "ping": "110 ms",
+    "protocol": "OpenVPN",
+    "host": "us1.yourserver.com",
+    "port": "1194",
+    "username": "vpnuser",
+    "password": "vpnpass",
+    "ovpn_config": "https://yourserver.com/configs/us1.ovpn",
+    "type": "free"
+  },
+  {
+    "id": "3",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "flag": "🇳🇱",
+    "ping": "55 ms",
+    "protocol": "WireGuard",
+    "host": "nl1.yourserver.com",
+    "port": "51820",
+    "username": "",
+    "password": "",
+    "ovpn_config": "",
+    "type": "pro"
+  },
+  {
+    "id": "4",
+    "country": "Japan",
+    "city": "Tokyo",
+    "flag": "🇯🇵",
+    "ping": "180 ms",
+    "protocol": "OpenVPN",
+    "host": "jp1.yourserver.com",
+    "port": "1194",
+    "username": "vpnuser",
+    "password": "vpnpass",
+    "ovpn_config": "https://yourserver.com/configs/jp1.ovpn",
+    "type": "pro"
+  },
+  {
+    "id": "5",
+    "country": "France",
+    "city": "Paris",
+    "flag": "🇫🇷",
+    "ping": "60 ms",
+    "protocol": "OpenVPN",
+    "host": "fr1.yourserver.com",
+    "port": "1194",
+    "username": "vpnuser",
+    "password": "vpnpass",
+    "ovpn_config": "https://yourserver.com/configs/fr1.ovpn",
+    "type": "free"
+  }
+]
