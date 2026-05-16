@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Power Workout",
+    "artist": "NoorFit",
+    "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/workout1.jpg",
+    "music": "https://raw.githubusercontent.com/USERNAME/REPO/main/music/workout1.mp3"
+  },
+  {
+    "title": "Spiritual Focus",
+    "artist": "NoorFit",
+    "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/workout2.jpg",
+    "music": "https://raw.githubusercontent.com/USERNAME/REPO/main/music/workout2.mp3"
+  },
+  {
+    "title": "Gym Motivation",
+    "artist": "NoorFit",
+    "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/workout3.jpg",
+    "music": "https://raw.githubusercontent.com/USERNAME/REPO/main/music/workout3.mp3"
+  }
+]
