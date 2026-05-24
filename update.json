@@ -1,8 +1,8 @@
 {
-  "force_update": false,
+  "force_update": true,
   "version": "2.0",
   "title": "New Update Available",
-  "description": "",
+  "description": "آپدیت جدیددددد",
   "telegram_link": "https://t.me/XGOD_H4X",
   "button_text": "Get Update"
 }
