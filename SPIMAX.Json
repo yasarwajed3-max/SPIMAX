@@ -1,20 +1,14 @@
 [
   {
+    "username": "nn",
+    "key": "88",
+    "device_id": "26a925cfacd5d53b",
+    "expiry": ""
+  },
+  {
     "username": "kz",
     "key": "amir",
     "device_id": "080c7eb33f786822",
-    "expiry": ""
-  },
-  {
-    "username": "ff",
-    "key": "11",
-    "device_id": "9ef72fe2aa3dd1b2",
-    "expiry": ""
-  },
-  {
-    "username": "gg",
-    "key": "20",
-    "device_id": "17ae7d2bb01a1de9",
     "expiry": ""
   }
 ]
